@@ -39,6 +39,3 @@ The dataset may include data that has undergone preprocessing, balancing, and te
 
 This dataset can be used for academic and research purposes, particularly for text classification, learning style prediction, personality classification, and machine learning research.
 
-## Note
-
-The dataset has been anonymized to protect the privacy of the participants.
